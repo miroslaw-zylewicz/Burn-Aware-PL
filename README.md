@@ -1,3 +1,3 @@
-<b>Burn Aware 17.8 na oficjalnej stronie:</b>
+<b>Burn Aware 18.4 na oficjalnej stronie:</b>
 
 https://www.burnaware.com

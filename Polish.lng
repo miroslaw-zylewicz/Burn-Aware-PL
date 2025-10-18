@@ -1,9 +1,27 @@
-; BurnAware Polish v17.6
+; BurnAware Polish v18.4
 ; Prepared by corteo@o2.pl
-; Translation updated by Mirosław Żylewicz - 22.05.2024
+; Translation updated by Mirosław Żylewicz - 12/09/2024
 
 [Language]
 Codepage=1250
+
+[v18.4]
+NoLinks=Nie można dodać plików (długość ścieżki przekracza 260 znaków).
+AsAdmin=Uruchom program jako administrator, aby uniknąć tego problemu.
+Warnings=Ostrzeżenie:
+
+[v18.0]
+ASPI=Użyj zewnętrznego inicjalizatora ASPI
+Hardware=Liczba prób sprzętowych:
+Software=Liczba prób programu:
+Correction=Włącz korekcję błędów
+FullCapacity=Kopia zapasowa całej zawartości
+SaveAs=Zapisz jako obraz dysku
+CUE=Generuj CUE dla utworów
+SelectDir=Wybierz folder
+Select=Wybierz
+LowRead=Użyj niskiej prędkości odczytu
+Multisession=Multisesyjną płytę można zapisać tylko w formacie BIN.
 
 [v17.7]
 OptimalSpeed=Wybierz optymalną prędkość nagrywania
@@ -237,7 +255,7 @@ CompareBytes=Porównaj sumy kontrolne oryginalnych i nagranych plików
 CompareAll=Sprawdź wszystkie pliki na płycie bajt po bajcie
 UnableRead=Nie można odczytać pliku
 WrongSum=Błędna suma kontrolna pliku
-Arranger=Aranżer
+Arranger=Aranżacja
 Composer=Kompozytor
 Songwriter=Autor tekstu
 Performer=Wykonawca
@@ -253,7 +271,7 @@ DVDWarning2=BurnAware nie konwertuje plików do formatu DVD-Video!
 DetectSize=Wykryj rozmiar folderu
 FolderSize=Pokaż rozmiar folderu
 Skin=Zastosuj skórkę do obramowania i nagłówka formularza
-LowSpeed=Użyj najmniejszej prędkości nagrywania
+LowSpeed=Użyj niskiej prędkości nagrywania
 
 [v7.0]
 Speed=Prędkość
