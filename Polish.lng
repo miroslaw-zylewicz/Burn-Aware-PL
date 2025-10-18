@@ -1,0 +1,1134 @@
+; BurnAware Polish v16.6
+; Prepared by corteo@o2.pl
+; Translation updated by Miros³aw ¯ylewicz - 01.06.2023
+
+[Language]
+Codepage=1250
+
+[v16.3]
+Length=Nieprawid³owa d³ugoœæ klucza.
+NotValid=Klucz licencyjny jest nieprawid³owy lub dostêp do rejestru jest zabroniony.
+TryAgain=Uruchom program jako administrator i spróbuj ponownie.
+NewKey=WprowadŸ nowy klucz licencyjny
+
+[v16.0]
+DigitizeDVD=Zdigitalizuj DVD
+MP4=Wykonaj kopiê zapasow¹ i zgraj DVD do MP4.
+AudioFormats=Wszystkie formaty audio
+VideoFormats=Wszystkie formaty wideo
+Basic=Podstawowy
+Burn=Nagraj pliki wideo
+NoConvert=Nagraj pliki wideo bez konwertowania do formatu DVD
+Run=Naciœnij przycisk "Kontynuuj", aby uruchomiæ program.
+Exit=Zarejestruj program lub naciœnij przycisk "WyjdŸ", aby go zamkn¹æ.
+ProKey=Upewnij siê, ¿e twój klucz jest przeznaczony do edycji Professional.
+SPTD=W³¹cz SPTD
+
+[v15.5]
+Time=Czas
+Day=Dzieñ
+Month=Miesi¹c
+Year=Rok
+DiscNumber=Numer p³yty
+OpenLog=Otwórz plik dziennika
+NoLog=Nie znaleziono pliku dziennika.
+InitFailed=Inicjalizacja nie powiod³a siê
+NoAccess=Znaleziono napêd optyczny, ale nie mo¿na uzyskaæ do niego dostêpu
+NoDrive=Nie wykryto napêdu optycznego
+SCSIError=B³¹d SCSI
+RegEntry=Poni¿szy wpis w rejestrze mo¿e byæ uszkodzony:
+NoFix=Nie mo¿na zaktualizowaæ wpisu rejestru.
+Fixed=Wpis rejestru zosta³ pomyœlnie zaktualizowany.
+Restart=Uruchom ponownie komputer.
+Fix=Napraw
+Uninstall=Odinstaluj urz¹dzenie CD-ROM/DVD w Mened¿erze urz¹dzeñ i uruchom ponownie komputer.
+Virtual=Upewnij siê, ¿e w systemie nie ma zainstalowanych dysków wirtualnych.
+Security=SprawdŸ ustawienia zabezpieczeñ systemu i zezwól na dostêp do napêdu optycznego.
+Connected=Upewnij siê, ¿e napêd optyczny jest pod³¹czony do komputera.
+Backup=Plik kopii zapasowej zapisz jako: 
+
+[v15.4]
+StandardAudio=Domyœlne ustawienia dŸwiêku
+Dolby=Ustawienia Dolby Digital
+
+[v15.1]
+SaveLog=Zapisz plik dziennika w folderze programu
+
+[v15.0]
+Convert=Konwertuj i nagraj pliki
+ConvertNote=Konwertuj pliki wideo do formatu DVD-Video i nagraj je
+TS=Nagraj folder VIDEO_TS
+TSNote=Dodaj i nagraj folder z plikami VOB, BUP i IFO
+
+[v14.9]
+Convert=Konwertuj pliki do formatu zgodnego z DVD
+NoConvert=Nie konwertuj plików
+
+[v14.8]
+Upgrade=Uaktualnij
+Benefits=Zaktualizuj edycjê bezp³atn¹, aby uzyskaæ nastêpuj¹ce korzyœci:
+64bit=64-bitowa wersja programu
+AllTools=Dostêpne wszystkie narzêdzia
+Command=Obs³uga wiersza poleceñ
+Use=Dozwolony u¿ytek komercyjny
+
+[v14.7]
+LogFile=Zapisz nazwy plików w pliku dziennika
+
+[v14.6]
+Convert=Konwertuj pliki do standardowego formatu DVD-Video
+
+[v14.3]
+Free=Wersja bezp³atna nie mo¿e byæ u¿ywana w organizacji ani do celów komercyjnych.
+Upgrade=Zaktualizuj do wersji Professional 
+Legal=Nie twórz nielegalnych kopii tego programu!
+
+[v14.1]
+CloseSession=Zamknij sesjê
+NoClose=Nie mo¿na zamkn¹æ ostatniej sesji.
+SessionClosed=Sesja zosta³a zamkniêta.
+OkClose=Kliknij OK, aby kontynuowaæ lub Anuluj, aby powróciæ.
+CloseTip=Ostatnia sesja zostanie zamkniêta.
+AsName=U¿yj CD-Text jako nazwy pliku
+TextCue=Dodaj tagi do pliku CUE
+SameDrive=Dysk zostanie skopiowany w dwóch etapach przy u¿yciu napêdu:
+
+[v14.0]
+Quality=Jakoœæ
+ExtractAll=Wypakuj wszystko
+EmptySession=Czy na pewno chcesz nagraæ pust¹ sesjê?
+Theme=Motyw
+Str1=Ta opcja dostêpna jest tylko w wersji Professional!
+Str2=Ta opcja dostêpna jest w wersjach Professional oraz Premium!
+Str3=Czy chcesz pobraæ i wypróbowaæ bezp³atn¹ wersjê próbn¹?
+
+[v13.8]
+Note1=Wersja bezp³atna przeznaczona jest wy³¹cznie do u¿ytku osobistego!
+Note2=Ta wersja nie jest przeznaczona do u¿ytku komercyjnego.
+Note3=Aby korzystaæ z tego oprogramowania w organizacjach lub do u¿ytku
+Note4=komercyjnego, nale¿y zakupiæ licencjê Professional Edition.
+Note5=Czy chcesz otworzyæ stronê zamówienia?
+
+[v12.4]
+Use=Tylko do u¿ytku osobistego
+CDText=U¿yj nazwy pliku jako œcie¿ki CD-Text
+Temp=Konwertuj utwory przed nagraniem
+NoSplit=Nie mo¿na podzieliæ pojedynczego pliku na wiele plików.
+Arrange=Program rozmieœci pliki na kilku p³ytach.
+
+[v12.0]
+Vertical=Uk³ad pionowy
+Horizontal=Uk³ad poziomy
+Normalize=Normalizuj œcie¿ki audio
+Volume=Poziom g³oœnoœci
+Checksum=Suma kontrolna
+Generate=Generuj
+Save=Zapisz
+
+[v11.3]
+MinBitrate=Min. przep³ywnoœæ (kBit/s)
+BitrateType=Typ przep³ywnoœci
+Variable=Zmienna
+Constant=Sta³a
+
+[v11.1]
+ExtractTo=Wypakuj do
+ExtractHere=Wypakuj tutaj
+ExtractFiles=Wypakuj pliki...
+Shell=Zintegruj z pow³ok¹
+BurnDisc=Nagraj na p³ytê
+BurnData=Nagraj na p³ytê z danymi
+AddISO=Dodaj do kompilacji ISO...
+AddData=Dodaj do kompilacji danych...
+AudioInfo=Audio CD mo¿na zapisaæ tylko w formacie BIN.
+SizeonDisc=Rozmiar na p³ycie:
+TotalSize=Rozmiar ca³kowity:
+
+[v11.0]
+UnpackISO=Wypakuj ISO
+UnpackISOHint=Wypakuj pliki z obrazu ISO.
+Open=Otwórz
+Total=Ca³oœæ:
+DestFolder=Proszê wybraæ folder docelowy.
+MultiLabel=U¿yj oryginalnej nazwy p³yty dla nowych sesji
+HiRes=Konwertowanie œcie¿ek HD
+Converting=Konwertowanie
+
+[v10.5]
+Sleep=Nie przechodŸ w tryb uœpienia podczas nagrywania
+NoSleep=Tryb blokady uœpienia aktywowany
+
+[v10.3]
+RunAsAdmin=Proszê uruchomiæ program jako administrator.
+NoSpan=Program nie mo¿e podzieliæ pliku na wiele plików.
+BigSize=Rozmiar pliku przekracza pojemnoœæ p³yty.
+
+[v10.1]
+Categories=Kategorie
+Classic=Klasyczne ikony
+Tag=Zapisz tagi utworu
+
+[v9.5]
+Discs=P³yty
+SelectDiscs=Wybierz p³yty, które chcesz nagraæ:
+Skipped=P³yta pominiêta
+Confirm=Poproœ o zapisanie kompilacji przed wyjœciem
+
+[v9.4]
+Confirm=Czy chcesz zapisaæ swoj¹ kompilacjê?
+
+[v8.9]
+Shutdown=Wy³¹cz komputer po zakoñczeniu
+
+[v8.3]
+Skin=Skórka
+Lowercase=Zezwól na ma³e litery w nazwach plików
+
+[v8.0]
+BDMV=Twórz p³ytê DVD lub Blu-ray w formacie BDMV lub AVCHD.
+Buttons=Przyciski
+FolderSize=Rozmiar folderu: 
+Folder=folder
+Folders=foldery
+File=plik
+Files=pliki
+Overwrite=Nadpisaæ?
+Exists=Plik lub folder o podanej nazwie ju¿ istnieje:
+ApplySettings=Stosowanie ustawieñ
+FileErrors=Wyst¹pi³y problemy podczas sprawdzania plików.
+ContinueAnyway=Czy chcesz kontynuowaæ mimo wszystko?
+Tracks=Œcie¿ki
+Tracks2=œcie¿ki
+Recovery=Odzyskaj i wyodrêbnij dane z sesji lub uszkodzonej p³yty.
+SpanDisc=Wiele p³yt
+SpanHint=Nagraj dane na wielu p³ytach.
+RemoveEmpty=Usuñ puste foldery
+
+[v7.9]
+AudioGrabber=Audio Grabber
+IncludeCDText=Do³¹cz CD-Text
+OutputFormat=Format wyjœciowy
+Bitrate=Przep³ywnoœæ (kBit/s)
+GrabberHint=Wyodrêbnij i zapisz œcie¿ki audio z p³yty Audio CD.
+
+[v7.7]
+CompareBytes=Porównaj sumy kontrolne oryginalnych i nagranych plików
+CompareAll=SprawdŸ wszystkie pliki na p³ycie bajt po bajcie
+UnableRead=Nie mo¿na odczytaæ pliku
+WrongSum=B³êdna suma kontrolna pliku
+Arranger=Aran¿er
+Composer=Kompozytor
+Songwriter=Autor tekstu
+Performer=Wykonawca
+Message=Wiadomoœæ
+Title=Tytu³
+
+[v7.4]
+DVDWarning=Niektóre pliki nie s¹ w formacie DVD-Video (VOB, BUP i IFO).
+DVDWarning1=Twój odtwarzacz DVD musi obs³ugiwaæ format tych plików.
+DVDWarning2=BurnAware nie konwertuje plików do formatu DVD-Video!
+
+[v7.1]
+DetectSize=Wykryj rozmiar folderu
+FolderSize=Poka¿ rozmiar folderu
+Skin=Zastosuj skórkê do obramowania i nag³ówka formularza
+LowSpeed=U¿yj najmniejszej prêdkoœci nagrywania
+
+[v7.0]
+Speed=Prêdkoœæ
+Verify=Weryfikuj
+Extract=Wypakuj
+SaveCUE=Zapisz CUE
+Extra=Dodatkowe
+Filelist=Lista plików
+Website=Witryna internetowa
+Tracklist=Spis utworów
+EraseFailed=Proces wymazywania nie powiód³ siê
+Skin=Zastosuj skórkê do formularza
+MaxSpeed=Zawsze u¿ywaj maksymalnej prêdkoœci nagrywania
+Eject=Wysuñ
+Status=Status
+
+[v6.8]
+Calculating=Obliczanie rozmiaru, proszê czekaæ...
+Horizontal=Uk³ad poziomy
+FolderSize=Oblicz rozmiar folderu
+
+[v6.7]
+CheckingDisc=Sprawdzanie p³yty...
+CheckingSessions=Sprawdzanie sesji...
+UnableToLoadSession=Nie mo¿na wczytaæ ostatniej sesji...
+CheckingTracks=Sprawdzanie œcie¿ek...
+UnableToLoadTrack=Nie mo¿na wczytaæ ostatniej œcie¿ki...
+CheckingFS=Sprawdzanie systemu plików...
+LoadingFiles=Wczytywanie plików z ostatniej sesji...
+Failed=Niepowodzenie
+Success=Sukces
+Verification=Weryfikacja uruchomiona...
+CheckingFiles=Sprawdzanie plików
+
+[v6.5]
+GeneratingCue=Tworzenie pliku CUE
+UnknownFormat=Nieznany format obrazu p³yty
+
+[v6.4]
+MakeImage=Twórz obraz
+FileBrowser=Przegl¹darka plików
+Prefix=Prefiks
+Suffix=Sufiks
+DateTime=Data i czas
+CopyList=Kopiuj listê utworów do schowka
+Path=Œcie¿ka
+Error=B³¹d
+Virtual=Wirtualny
+Physical=Fizyczny
+Sparable=Wolny
+
+[v6.2]
+Standard=Standardowy
+Large=Du¿y
+License=Korzystanie z tego oprogramowania w organizacji lub do celów komercyjnych jest zabronione.
+Add=Przeci¹gnij i upuœæ pliki tutaj.
+Priority=Priorytet
+VeryLow=Bardzo niski
+Low=Niski
+Normal=Normalny
+High=Wysoki
+VeryHigh=Bardzo wysoki
+
+[v6.0]
+VerifyDisc=Zweryfikuj p³ytê
+ClickVerify=Kliknij tutaj, aby sprawdziæ p³ytê
+DataError=Nie mo¿na odczytaæ danych z p³yty.
+VerifyHint=SprawdŸ p³ytê w poszukiwaniu b³êdów.
+Supported=Obs³ugiwane
+Notsupported=Nieobs³ugiwane
+Testwrite=Zapis testowy
+BufferProtection=Ochrona bufora
+BytesChecked=Sprawdzono bajtów:
+TotalSize=Wielkoœæ ca³kowita (bajty):
+Platform=Platforma:
+BootMsg=Wiadomoœæ startowa:
+CacheMB=Rozmiar pamiêci podrêcznej (MB):
+
+[v5.2]
+InsertEmpty=Proszê w³o¿yæ pust¹ p³ytê, aby kontynuowaæ.
+InsertDisc=Proszê w³o¿yæ zapisywaln¹ p³ytê, aby kontynuowaæ.
+InsertCorrect=Proszê w³o¿yæ p³ytê odpowiedniego typu, aby kontynuowaæ.
+InsertAnother=Proszê w³o¿yæ inn¹ p³ytê, aby kontynuowaæ.
+Created=Utworzony:
+Modified=Zmodyfikowany:
+Accessed=Ost. u¿ywany:
+Original=U¿yj oryginalnej daty z plików
+Compilation=U¿yj daty kompilacji jako daty plików
+Custom=U¿yj niestandardowej daty plików:
+
+[v5.1]
+Path=Œcie¿ka:
+Name=Nazwa:
+Abort=Przerwij
+
+[v5.0]
+CustomDisc=Niestandardowa p³yta
+CustomHint=Twórz p³ytê w systemie ISO 9660, UDF lub Bridge.
+Standard=Twórz standardow¹ p³ytê CD, DVD lub Blu-ray.
+
+[v4.6]
+Blank=Zamieñ uszkodzone sektory na puste sektory
+Retry=Odczytaj ponownie uszkodzony sektor
+Misc=Ró¿ne
+Values=U¿yj predefiniowanych wartoœci
+Detect=Wykryj aktualn¹ prêdkoœæ nagrywania
+
+[v4.4]
+RememberSpeed=Zapamiêtaj prêdkoœæ nagrywania
+AddDate=Dodaj datê i czas
+DateFormat=Format daty:
+
+[v4.2]
+Unknown=Nieznany system plików.
+
+[v4.1]
+Data=W³o¿ona p³yta zawiera dane, które mog¹ zostaæ zaktualizowane.
+Update=Czy chcesz zaktualizowaæ istniej¹ce dane na p³ycie?
+Session=System plików na p³ycie nie jest kompatybilny z aktualn¹ kompilacj¹.
+Session2=Proszê u¿yæ
+Session3=kompilacji, aby zaktualizowaæ dane na p³ycie.
+ClickOK=Kliknij OK, aby wymazaæ p³ytê i kontynuowaæ nagrywanie.
+EraseBefore=Wszystkie dane na p³ycie zostan¹ usuniête.
+
+[v4.0]
+Register=Zarejestruj
+MaxSpeed=U¿yj maksymalnej prêdkoœci nagrywania
+SameDisc=P³yta Ÿród³owa i docelowa musz¹ mieæ ten sam typ.
+SameDrives=Napêd Ÿród³owy i docelowy nie mog¹ byæ takie same.
+Direct=Kopiowanie bezpoœrednie (kopiowanie w locie)
+WriteOnCD=Zapisz CD-Text
+Unicode=U¿yj kodowania Unicode dla CD-Text
+Directory=<Folder>
+FreeSpace=Wolne miejsce na p³ycie:
+FreeTime=Wolny czas na p³ycie:
+ISODisc=Twórz CD lub DVD z danymi w systemie ISO 9660.
+UDFDisc=Twórz CD lub DVD z danymi w systemie Universal Disk Format.
+ISOUDFDisc=Twórz CD lub DVD z danymi w obu systemach: ISO 9660 i UDF.
+BootDisc=Twórz p³ytê startow¹.
+DVDVideo=Twórz p³ytê DVD-Video, któr¹ odtworzysz na dowolnym odtwarzaczu DVD.
+BurnISO=Nagraj ISO
+CopyISO=Kopiuj do ISO
+Bridge=P³yta Bridge Disc
+NotComp=nie jest kompatybilna z bie¿¹c¹ kompilacj¹.
+SFS=System plików sesji:
+CFS=System plików kompilacji:
+Use=Proszê u¿yæ
+Comp=kompilacji, aby zaimportowaæ t¹ sesjê.
+Compiled=Skompilowano
+
+[v3.3.1]
+Use=U¿yj multisesji dla p³yt DVD-RW/+RW
+License=Ten program jest darmowy do u¿ytku niekomercyjnego.
+
+[v3.1.3]
+Restart=Proszê zrestartowaæ aplikacjê.
+AllowDirs=Akceptuj œcie¿ki zawieraj¹ce wiêcej ni¿ 8 folderów
+AllowChars=Akceptuj œcie¿ki zawieraj¹ce wiêcej ni¿ 255 znaków
+Add=Dodaj rozszerzenie ";1" do wersji pliku ISO
+AllowChars2=Akceptuj nazwy Joliet zawieraj¹ce wiêcej ni¿ 64 znaki
+Auto=U¿yj ustawieñ automatycznych
+Length=D³ugoœæ nazwy pliku:
+Partition=Typ partycji UDF:
+FSVersion=Wersja systemu plików:
+Restore=Przywróæ ustawienia domyœlne
+Remember=Pamiêtaj etykietê p³yty
+
+[v3.1.2]
+License=Ta kopia przeznaczona jest tylko do u¿ytku osobistego (niekomercyjnego).
+Registered=Wersja zarejestrowana
+Subscription=Subskrybuj
+Buy=Kup uaktualnienie na nastêpny rok
+Download=Pobierz wczeœniejsz¹ wersjê
+TempFolder=Folder tymczasowy:
+Specify=Wybierz folder tymczasowy
+Copies=Liczba kopii:
+CopyAudioCD=Kopiuj Audio CD do obrazu CUE
+Extract=Wyodrêbnij zaznaczone
+DiscSession=Sesja p³yty
+Saving=Zapisywanie
+Track=Œcie¿ka
+Continue=Kontynuuj p³ytê wielosesyjn¹
+LoadData=Wczytaj dane z sesji #
+EjectAfterErase=Wysuñ p³ytê po wymazaniu
+ImagePath=Œcie¿ka do obrazu p³yty:
+BootISO=Obraz startowy ISO
+UDFImage=Obraz UDF
+BridgeImage=Obraz ISO/UDF
+ImageFormat=Format obrazu
+FileSystem=System plików:
+Vendor=Producent
+Product=Produkt
+Firmware=Wersja firmware
+Serial=Numer seryjny
+Connection=Typ po³¹czenia
+Interface=Interfejs
+Buffer=Rozmiar bufora
+Region=Kod regionu
+Changes=Zmian kodu regionu pozosta³o
+Read=Odczyt
+Write=Zapis
+Abstract=Opis:
+Copyright=Prawa autorskie:
+Bibliography=Bibliografia:
+Set=Zbiór:
+System=System:
+
+[v3.1]
+Pause=Pauza:
+Seconds=Sekund
+Frames=Ramek
+UnableTrack=Nie mo¿na dodaæ œcie¿ki
+UnableInfo=Nie mo¿na odczytaæ informacji o noœniku (b³¹d
+GetSpeed=Okreœlanie prêdkoœci zapisu, proszê czekaæ...
+DateCreated=Data utworzenia
+
+[v3.0]
+PrepareFailed=Przygotowywanie zakoñczone niepowodzeniem
+MultiBurn=Nagraj obraz ISO na wielu nagrywarkach.
+Remaining=Pozosta³y czas:
+Buffer=Bufor
+Usage=U¿ycie
+WriteMethod=Metoda zapisu
+UseOPC=U¿yj optymalnej kalibracji mocy (OPC)
+WriteOnCD=Nagraj na CD
+Erase=Wyma¿ p³ytê
+DiscSpace=Rozmiar p³yty
+FreeSpace=Wolne miejsce
+UsedSpace=Zajête miejsce
+Sessions=Sesje
+EmptyDisc=Pusta p³yta
+IncompleteDisc=Niepe³na p³yta
+CompleteDisc=Pe³na p³yta
+DiscType=Typ p³yty
+DiscStatus=Status p³yty
+Bootable=Startowa
+View=Widok
+Sidebar=Pasek boczny
+OpenPlayList=Otwórz playlistê...
+SavePlayList=Zapisz playlistê...
+Edit=Edytuj
+File=Plik
+Settings=Ustawienia
+EraseDisc2=Wyma¿ p³ytê
+DiscInfo2=Informacje o p³ycie
+CopyDisc2=Kopiuj p³ytê
+DataRecovery2=Odzyskiwanie danych
+BurnImage2=Nagraj obraz
+MakeISO2=Twórz ISO
+MakeBootISO=Twórz startowy ISO
+CopytoImage=Kopiuj do obrazu
+DataCD=CD z danymi
+DataDVD=DVD z danymi
+UDFBridgeDVD=UDF Bridge DVD
+BootDisc2=P³yta startowa
+BD=P³yta Blu-ray
+Data=Dane
+Multimedia=Multimedia
+DiscImages=Obrazy p³yt
+Utilities=Narzêdzia
+Recovery=Wyodrêbnij œcie¿ki audio lub dane z p³yty wielosesyjnej.
+NoSaveData=Nie mo¿na zapisaæ danych (b³¹d
+SaveDataCaption=Zapisywanie danych...
+NoSaveCue=Nie mo¿na zapisaæ pliku CUE (b³¹d
+NoSaveTrack=Nie mo¿na zapisaæ œcie¿ki (b³¹d
+SaveCaption=Zapisywanie obrazu CUE...
+SaveTracksCaption=Zapisywanie œcie¿ek...
+UnableLoad=Nie mo¿na wczytaæ œcie¿ki.
+LoadingContent=Wczytywanie zawartoœci, proszê czekaæ...
+AddTracks=Dodaj œcie¿ki
+AddFiles=Dodaj pliki
+Simulate=Symuluj
+Writing=Zapisywanie
+ClickTracks=Kliknij tutaj, aby dodaæ œcie¿ki
+ClickFiles=Kliknij tutaj, aby dodaæ pliki
+Finalize=Proces finalizacji uruchomiony
+Finalizing=Zamykanie œcie¿ki
+Calculation=Obliczanie
+DiscImage=Obraz p³yty
+NoBin=Nie mo¿na dodaæ obrazu CUE. Brakuje pliku BIN.
+WrongTS=Nieprawid³owy folder DVD-Video.
+NoTS=Folder DVD-Video nie zosta³ znaleziony.
+SelectTS=Proszê wybraæ prawid³owy folder VIDEO_TS.
+BrowseTS=Proszê wybraæ folder zawieraj¹cy pliki DVD-Video. Folder musi zawieraæ pliki VOB, IFO i BUP oraz musi nazywaæ siê VIDEO_TS.
+NoDrive=Nie mo¿na wykryæ nagrywarki.
+CDCue=Obraz CUE mo¿e byæ nagrany tylko na p³ycie CD.
+DataDisc=P³yta z danymi
+MakeFolder=Utwórz folder
+FolderExists=Folder z tak¹ nazw¹ ju¿ istnieje.
+OpenFolder=Otwieranie folderu...
+DAO=U¿yj trybu disc-at-once
+SessionError=Wybrany typ kompilacji jest niekompatybilny z ostatnio nagran¹ sesj¹.
+ImportError=Podczas wczytywania sesji wyst¹pi³ b³¹d.
+OkSession=Kliknij OK, aby kontynuowaæ wielosesyjn¹ p³ytê.
+OkSession2=Kliknij Anuluj, aby rozpocz¹æ now¹ sesjê.
+MultisessionDisc=W³o¿ona p³yta zawiera dane.
+AppendNew=Mo¿esz dodaæ pliki do p³yty lub stworzyæ now¹ p³ytê.
+MP3Disc=P³yta MP3
+ISODisc=Twórz CD z danymi w systemie ISO 9660.
+UDFDisc=Twórz DVD z danymi w systemie Universal Disk Format.
+ISOUDFDisc=Twórz DVD z danymi w obu systemach: ISO 9660 i Universal Disk Format.
+BDDisc=Twórz p³ytê Blu-ray.
+BootDisc=Twórz startow¹ p³ytê CD lub DVD.
+AudioCD=Twórz p³ytê Audio CD, któr¹ odtworzysz na dowolnym odtwarzaczu CD.
+MP3DiscHint=Twórz p³ytê MP3, któr¹ odtworzysz na dowolnym odtwarzaczu MP3.
+DVDVideo=Twórz wysokiej jakoœci DVD-Video z folderu VIDEO_TS.
+BurnImage=Twórz p³ytê z obrazu ISO.
+MakeISO=Twórz obraz ISO z plików lokalnych.
+BootISO=Twórz startowy obraz ISO z plików lokalnych.
+CopyISO=Kopiuj p³ytê do obrazu ISO.
+EraseDisc=Wyma¿ lub formatuj p³ytê wielokrotnego zapisu.
+DiscInfo=Zobacz informacje o p³ycie i nagrywarce.
+WritingImage=Zapisywanie do obrazu
+Make=Twórz
+WriteProcess=Proces nagrywania zakoñczony sukcesem
+WriteFailed=Proces nagrywania zakoñczony niepowodzeniem
+NoBoot=Proszê wybraæ plik obrazu startowego w Opcje > Ustawienia startowe.
+NoAudioToISO=Nie mo¿na skopiowaæ Audio CD do obrazu ISO.
+CopyDisc=Kopiuj p³ytê na p³ytê.
+RegName=Nazwa:
+DontCheck=Nie sprawdzaj aktualizacji
+UpdateVersion=Nowa wersja:
+CurrentVersion=Bie¿¹ca wersja:
+Download=Czy chcesz odwiedziæ stronê programu, aby pobraæ now¹ wersjê?
+BuyNow=Kup teraz
+EnterKey=Wpisz klucz licencyjny
+2GBError=Nie mo¿na dodaæ pliku 2GB do kompilacji ISO
+Play=Odtwórz
+Stop=Zatrzymaj
+Playing=Odtwarzanie œcie¿ki
+NoSDK=Nie mo¿na zainicjowaæ SDK.
+Scan=Skanowanie napêdów, proszê czekaæ...
+DriveError=Nie mo¿na wykryæ nagrywarek (b³¹d
+NoDLL=Biblioteka SDK nie zosta³a prawid³owo zarejestrowana w twoim systemie.
+Reinstall=Spróbuj przeinstalowaæ program.
+UnablePlay=Nie mo¿na odtworzyæ œcie¿ki.
+
+[v2.3.6]
+Pause=Pauza (w sekundach):
+
+[v2.3.3]
+Select=Proszê wybraæ kategoriê z lewej strony.
+Options=Opcje
+Options2=Opcje (F10)
+Options3=Opcje...
+Default=Domyœlne
+Upgrade=Czy chcia³byœ zakupiæ aktualizacje na nastêpny rok?
+
+[v2.3.0]
+Erase=Wyma¿
+Burn=Nagraj
+Build=Twórz
+Copy=Kopiuj
+Home=Ta kopia BurnAware Free przeznaczona jest tylko do u¿ytku osobistego (niekomercyjnego).
+Business=Licencja biznesowa
+Corporate=Licencja korporacyjna
+Session=Sesja
+Track=Œcie¿ka
+Data=Dane
+Audio=Audio
+NA=b/d
+DiscInfo=Informacje o p³ycie
+DriveInfo=Informacje o napêdzie
+Writable=Zapisywalna:
+Erasable=Wymazywalna:
+Speeds=Obs³ugiwane prêdkoœci:
+Index=Numer napêdu:
+Read=Odczyt
+Write=Zapis
+
+[v2.2.3]
+Update=Aktualizacja
+Available=Dostêpna jest aktualizacja.
+DontAsk=Nie pokazuj
+Yes=Tak
+No=Nie
+
+[v2.2.2]
+Session=B³¹d podczas wczytywania sesji. Stwórz now¹ kompilacjê, aby spróbowaæ ponownie.
+
+[v2.2]
+CD=Narzêdzia CD-R/RW
+DVD=Narzêdzia DVD-R/RW/DL
+BD=Narzêdzia Blu-ray Disc
+Pro=Narzêdzia zaawansowane
+Advance=Kontynuuj
+BAFL=Lista plików BurnAware
+Load=Wczytaj listê plików...
+Save=Zapisz listê plików...
+
+[v2.1.7]
+MultiburnISO=Nagraj obraz ISO na wielu nagrywarkach
+Multiburn=Nagraj pliki i foldery na wielu nagrywarkach
+MultiBurnHint=Nagraj pliki i foldery na wielu nagrywarkach równoczeœnie.
+Group=Narzêdzia do równoczesnego nagrywania
+Load=Wczytaj p³ytê
+Closing1=Zamykanie tacki...
+Closing=Zamykanie tacki, proszê czekaæ...
+
+[v2.1.6]
+MP3CD=Twórz p³ytê CD z MP3
+MP3DVD=Twórz p³ytê DVD z MP3
+MP3BD=Twórz p³ytê BD z MP3
+MP3CD2=P³yta CD z MP3
+MP3DVD2=P³yta DVD z MP3
+MP3BD2=P³yta BD z MP3
+
+[v2.1.5]
+Tray=Zawsze pokazuj ikonê w zasobniku systemowym
+Hide=Ukryj do zasobnika systemowego po zamkniêciu
+Openwindow=Otwórz okno
+Cancel1=Je¿eli zatrzymasz teraz nagrywanie p³yty, nie bêdzie mo¿na jej odczytaæ.
+Cancel2=Na pewno chcesz anulowaæ nagrywanie?
+Remember=Pamiêtaj opcje
+
+[v2.1.2]
+Properties=W³aœciwoœci...
+Properties2=W³aœciwoœci
+Hidden=Ukryty
+
+[v2.1]
+AutoDetect=Automatycznie wykryj typ p³yty w napêdzie
+Notice=Ta kopia BurnAware Free przeznaczona jest tylko do u¿ytku osobistego (niekomercyjnego).
+Welcome=Witaj
+
+[Welcome Hints]
+DataCD=Tworzy p³ytê CD, na której mo¿na zapisaæ wszystkie typy plików i folderów.
+DataDVD=Tworzy p³ytê DVD, na której mo¿na zapisaæ wszystkie typy plików i folderów.
+DataBD=Tworzy p³ytê Blu-ray, na której mo¿na zapisaæ wszystkie typy plików i folderów.
+BootCD=Tworzy startow¹ p³ytê CD, przy pomocy której komputer mo¿e zostaæ uruchomiony bez dostêpu do twardego dysku.
+BootDVD=Tworzy startow¹ p³ytê DVD, przy pomocy której komputer mo¿e zostaæ uruchomiony bez dostêpu do twardego dysku.
+AudioCD=Tworzy standardow¹ p³ytê Audio CD. Pliki MP3, WAV i OGG zostan¹ automatycznie przekonwertowane do formatu Audio CD podczas nagrywania.
+DVDVideo=Tworzy wysokiej jakoœci p³ytê DVD-Video ze struktury DVD-Video z dysku twardego.
+JukeCD=Tworzy p³ytê CD z Twoimi ulubionymi plikami MP3 lub WMA, któr¹ mo¿na odtworzyæ na ka¿dym komputerze lub odtwarzaczu CD/DVD obs³uguj¹cym p³yty MP3 lub WMA.
+JukeDVD=Tworzy p³ytê DVD z Twoimi ulubionymi plikami MP3 lub WMA, któr¹ mo¿na odtworzyæ na ka¿dym komputerze lub odtwarzaczu DVD obs³uguj¹cym p³yty MP3 lub WMA.
+JukeBD=Tworzy p³ytê Blu-ray z Twoimi ulubionymi plikami MP3 lub WMA, któr¹ mo¿na odtworzyæ na ka¿dym komputerze lub odtwarzaczu BD obs³uguj¹cym p³yty MP3 lub WMA.
+BurnImage=Tworzy p³ytê z wczeœniej utworzonego obrazu p³yty, który znajduje siê na dysku twardym.
+CreateCDImage=Tworzy standardowy obraz p³yty CD, który mo¿e byæ u¿yty, gdy pojawi¹ siê problemy w czasie nagrywania lub wtedy, gdy do komputera nie jest pod³¹czona nagrywarka.
+CreateDVDImage=Tworzy standardowy obraz p³yty DVD, który mo¿e byæ u¿yty, gdy pojawi¹ siê problemy w czasie nagrywania lub wtedy, gdy do komputera nie jest pod³¹czona nagrywarka.
+CreateBDImage=Tworzy standardowy obraz p³yty Blu-ray, który mo¿e byæ u¿yty, gdy pojawi¹ siê problemy w czasie nagrywania lub wtedy, gdy do komputera nie jest pod³¹czona nagrywarka.
+BootCDImage=Tworzy obraz startowej p³yty CD, który mo¿e byæ u¿yty, gdy pojawi¹ siê problemy w czasie nagrywania lub wtedy, gdy do komputera nie jest pod³¹czona nagrywarka.
+BootDVDImage=Tworzy obraz startowej p³yty DVD, który mo¿e byæ u¿yty, gdy pojawi¹ siê problemy w czasie nagrywania lub wtedy, gdy do komputera nie jest pod³¹czona nagrywarka.
+MultiBurn=Nagrywa obraz p³yty jednoczeœnie na wielu nagrywarkach.
+MultiErase=Wymazuje lub formatuje na wielu nagrywarkach p³yty wielokrotnego zapisu.
+EraseCD=Wymazuje lub formatuje p³ytê CD wielokrotnego zapisu.
+EraseDVD=Wymazuje lub formatuje p³ytê DVD wielokrotnego zapisu.
+EraseBD=Wymazuje lub formatuje p³ytê Blu-ray wielokrotnego zapisu.
+CopyCD=Tworzy kopiê ca³ej p³yty CD.
+CopyDVD=Tworzy kopiê ca³ej p³yty DVD.
+DiscInfo=Pokazuje informacje o p³ycie.
+Preferences=Opcje (F7)
+Help=Pomoc (F1)
+About=O programie
+
+[Welcome Labels]
+Files=Pliki i foldery
+Music=Muzyka
+Multimedia=Multimedia
+Images=Obrazy p³yt
+Tools=Narzêdzia
+What=Co chcesz zrobiæ?
+Preferences=Opcje
+General=G³ówne
+Registration=Rejestracja
+Name=Zarejestrowany dla (wa¿na wielkoœæ liter):
+Key=Klucz licencyjny:
+
+[Welcome Buttons]
+DataCD=Twórz p³ytê CD z danymi
+DataDVD=Twórz p³ytê DVD z danymi
+DataBD=Twórz p³ytê BD z danymi
+BootCD=Twórz startow¹ p³ytê CD
+BootDVD=Twórz startow¹ p³ytê DVD
+AudioCD=Twórz p³ytê Audio CD
+DVDVideo=Twórz p³ytê DVD-Video
+JukeCD=Twórz p³ytê CD z MP3 lub WMA
+JukeDVD=Twórz p³ytê DVD z MP3 lub WMA
+JukeBD=Twórz p³ytê BD z MP3 lub WMA
+BurnImage=Nagraj obraz ISO
+CDImage=Twórz obraz p³yty CD
+DVDImage=Twórz obraz p³yty DVD
+BDImage=Twórz obraz p³yty BD
+BootCDImage=Twórz obraz startowej p³yty CD
+BootDVDImage=Twórz obraz startowej p³yty DVD
+Multiburn=Nagraj na wielu nagrywarkach
+Info=Informacje o p³ycie
+CopyCD=Kopiuj p³ytê CD
+CopyDVD=Kopiuj p³ytê DVD
+EraseCD=Wyma¿ p³ytê CD-RW
+EraseDVD=Wyma¿ p³ytê DVD-RW/+RW
+EraseBD=Wyma¿ p³ytê BD-RE
+Multierase=Wyma¿ p³yty na wielu nagrywarkach
+
+[Trial]
+Expired=OKRES PRÓBNY WYGAS£
+Exit=WyjdŸ
+Continue=Kontynuuj
+Day=Pozosta³ tylko 1 dzieñ
+Days=Pozosta³o dni:
+Message=Ten program mo¿esz wypróbowaæ bezp³atnie. Masz 10 dni na ocenê produktu przed dokonaniem zakupu. Wersja próbna nie jest ograniczona i nie ró¿ni siê w ¿aden sposób od pe³nej wersji.
+Buy=Kup klucz licencyjny
+Enter=Wpisz klucz licencyjny
+BuyTip=Kup w bezpieczny sposób klucz licencyjny przez internet.
+EnterTip=Wpisz klucz licencyjny do zamiany wersji próbnej na pe³n¹.
+Temp=Twój tymczasowy klucz licencyjny wygas³.
+Upgrade=Twoja subskrypcja aktualizacji wygas³a.
+NewVersion=Dostêpna jest nowa wersja:
+Download=Czy chcesz teraz odwiedziæ stronê programu?
+Chm=Nie mo¿na odnaleŸæ pliku pomocy (.chm).
+NotFound=Nie mo¿na odnaleŸæ pliku programu.
+Reinstalled=Program musi zostaæ przeinstalowany, aby uzyskaæ dostêp do pomocy.
+Reinstalled1=Program musi zostaæ przeinstalowany, aby uzyskaæ dostêp do pliku.
+SpecifyName=Proszê podaæ nazwê u¿yt¹ do rejestracji.
+SpecifyKey=Proszê podaæ klucz licencyjny.
+Thank=Dziêkujemy za rejestracjê.
+NotValid=Klucz licencyjny jest nieprawid³owy.
+
+[Welcome About]
+Version=Wersja
+Copyright=Copyright
+Reserved=Wszelkie prawa zastrze¿one.
+Unregistered=Niezarejestrowana wersja próbna
+Single=Licencja jednostanowiskowa
+Lifetime=Do¿ywotnie darmowe aktualizacje
+Year=Rok bezp³atnych uaktualnieñ
+Temporary=Licencja tymczasowa
+Registered=Ten program jest zarejestrowany dla:
+Warning=Ten program jest chroniony prawem autorskim i umowami miêdzynarodowymi.
+Warning1=Kopiowanie b¹dŸ rozpowszechnianie tego programu lub jakiejkolwiek jego czêœci bez upowa¿nienia mo¿e spowodowaæ poci¹gniêcie do odpowiedzialnoœci cywilnej i karnej w maksymalnym zakresie dopuszczalnym przez prawo.
+
+[Settings]
+CheckUpdates=SprawdŸ aktualizacje podczas startu programu
+CloseWindow=Zamknij g³ówne okno po uruchomieniu projektu
+Buffer=W³¹cz zabezpieczenie nagrywania (BurnProof, JustLink itp.)
+Pause=Bez przerw miêdzy œcie¿kami
+TestWrite=Symuluj proces nagrywania (zapis testowy)
+EnableText=W³¹cz CD-Text
+Eject=Wysuñ p³ytê po zakoñczeniu nagrywania
+SetSpeed=Ustaw prêdkoœæ nagrywania przed nagrywaniem
+Burn=Nagrywanie
+Boot=Ustawienia startowe
+FileSystem=System plików
+Labels=Etykiety
+Dates=Daty
+Finalize=Zakoñcz p³ytê (póŸniejszy zapis nie bêdzie mo¿liwy)
+Verify=Zweryfikuj poprawnoœæ danych po nagraniu
+DAO=Nagraj w trybie disc-at-once (DAO)
+BootImage=Plik obrazu startowego:
+Expert=Uaktywnij ustawienia zaawansowane
+Emulation=Typ emulacji:
+Segment=Segment ³adowania:
+Sectors=Liczba sektorów:
+NoEmulation=Bez emulacji
+Floppy1=Emulacja dyskietki 1.20MB
+Floppy2=Emulacja dyskietki 1.44MB
+Floppy3=Emulacja dyskietki 2.88MB
+HDDEmulation=Emulacja dysku twardego
+DVDMode=Tryb DVD-Video
+DataMode=Tryb danych:
+ISOLevel=Tryb ISO:
+Level1=Poziom 1 (maks. 11 znaków)
+Level2=Poziom 2 (maks. 31 znaków)
+Application=Aplikacja:
+Preparer=Przygotowa³:
+Publisher=Opublikowa³:
+SystemID=System ID:
+Volume=Zestaw woluminów:
+Creation=Utworzenie woluminu:
+Modification=Zmodyfikowanie woluminu:
+UseDates=U¿ywaj oryginalnych dat z plików z kompilacji
+Last=Wczytaj ostatni¹ sesjê
+Select=Wybierz sesjê do wczytania
+IncludeDate=Do³¹cz datê:
+Delimiter=Wy³¹cz separator pliku ISO '';1''
+
+[Menus]
+Compilation=Kompilacja
+NewCompilation=Nowa kompilacja
+BurnCompilation=Nagraj kompilacjê
+Preferences=Opcje...
+CompilationProperties=Opcje kompilacji...
+WelcomeScreen=Wróæ do ekranu startowego
+Exit=WyjdŸ
+Recorder=Nagrywarka
+Disc=P³yta
+Drive=Napêd
+Summary=Wszystko
+QuickInfo=Szybkie info...
+QuickErase=Wyma¿ p³ytê wielokrotnego zapisu...
+Format=Formatuj p³ytê wielokrotnego zapisu...
+Eject=Wysuñ p³ytê
+Help=Pomoc
+About=O programie...
+Burn=Nagraj (Ctrl+B)
+Build=Twórz obraz (Ctrl+B)
+BuildImage=Twórz obraz...
+Simulate=Symuluj (Ctrl+B)
+Copy=Kopiuj (Ctrl+B)
+Paste=Wklej
+SelectAll=Zaznacz wszystko
+Up=Przesuñ do góry
+Down=Przesuñ w dó³
+CDText=Edytuj CD-Text...
+
+[Captions]
+AudioCD=Audio CD
+AudioColumn1=Tytu³
+AudioColumn2=Œcie¿ka
+AudioColumn3=D³ugoœæ
+AudioColumn4=ród³o
+AddData=Dodaj pliki i foldery
+View=Poka¿:
+TrackText=CD-Text
+Artist=Artysta:
+Title=Tytu³:
+Init=Wyszukiwanie nagrywarek, proszê czekaæ...
+Insert=Oczekiwanie na p³ytê
+Properties=Opcje kompilacji
+Progress=Postêp
+Done=Zrobione.
+Gathering=Odczytywanie informacji, proszê czekaæ...
+Speed=Prêdkoœæ nagrywania
+Set=Ustaw prêdkoœæ nagrywania:
+DiscProgress=Postêp nagrywania p³yty:
+ISO=Standardowy obraz ISO
+IMA=Pliki startowe
+ALL=Wszystkie pliki
+Tip1=P³yta z napêdu Ÿród³owego zostanie skopiowana na p³ytê z napêdu docelowego.
+Tip2=Mo¿na u¿ywaæ tego samego napêdu jako Ÿród³owego i jako docelowego.
+Tip3=P³yta z napêdu Ÿród³owego zostanie zapisana w postaci obrazu. PóŸniej mo¿esz nagraæ ten obraz na p³ytê.
+Tip4=Wybierz lub przeci¹gnij obraz p³yty, który chcesz nagraæ.
+Source=Napêd Ÿród³owy:
+Destination=Napêd docelowy:
+CopyCD=Kopia p³yty CD
+CopyDVD=Kopia p³yty DVD
+ImageProgress=Postêp nagrywania obrazu:
+NewFolder=Nowy folder
+FolderName=Wpisz nazwê folderu:
+Rename=Zmieñ nazwê
+FileName=Wpisz nazwê pliku:
+
+[Buttons]
+AddFiles=Dodaj pliki...
+Up=Przesuñ do góry
+Down=Przesuñ w dó³
+CDText=Edytuj CD-Text...
+Remove=Usuñ
+Add=Dodaj
+OK=OK
+Cancel=Anuluj
+Clear=Wyczyœæ
+NewDisc=Nowa p³yta
+Back=< Wstecz
+WelcomeScreen=Wróæ do ekranu startowego (Alt+BkSp)
+UPLevel=IdŸ do folderu nadrzêdnego
+Browse=Przegl¹daj...
+Replace=Zamieñ
+Skip=Pomiñ
+ApplyAll=Zastosuj do wszystkich
+Properties=Opcje kompilacji (F10)
+Create=Nowy folder...
+Rename=Zmieñ nazwê...
+AddLayout=Dodaj VIDEO_TS...
+Close=Zamknij
+Erase=Wyma¿
+Format=Formatuj
+NewImage=Nowy obraz
+
+[Strings]
+Erase=Wymazywanie p³yty, proszê czekaæ...
+Format=Formatowanie p³yty, proszê czekaæ...
+Elapsed=Up³ynê³o czasu:
+Adding=Dodawanie
+Tracks=Œcie¿ki:
+Errors=B³êdy:
+Cannot=Nie mo¿na dodaæ œcie¿ki
+Max=Maksimum
+KBS=KB/s
+Remaining=Szacowany pozosta³y czas:
+AvSpeed=Œrednia prêdkoœæ nagrywania:
+Writing=Nagrywanie na p³ytê
+Cancelling=Anulowanie
+Written=MB nagrano
+BurnStart=Nagrywanie rozpoczête
+TestStart=Symulacja rozpoczêta
+Of=z
+Selected=Wybrano:
+Track=œcie¿ka
+Processing=Wykonywanie
+MinRequired=min wymagane
+MinAvailable=min dostêpne
+TotalTime=Ca³kowity czas:
+Icons=Ikony
+List=Lista
+SmallIcons=Ma³e ikony
+Details=Szczegó³y
+Files=Pliki:
+Folders=Foldery:
+CannotFile=Nie mo¿na dodaæ pliku
+CannotFolder=Nie mo¿na dodaæ folderu
+NotFound=Nie znaleziono pliku
+WritingImage=Zapisywanie do obrazu
+BuildStart=Proces rozpoczêty
+
+[Strings2]
+Copying=Kopiowanie na p³ytê
+CopyingImage=Kopiowanie do obrazu
+Preparing=Przygotowywanie obrazu
+LeadIn=Nagrywanie Lead-In
+LeadOut=Nagrywanie Lead-Out
+Source=ród³o:
+Destination=Cel:
+Saving=Zapisywanie obrazu p³yty
+MBSaved=MB zapisano
+KB=KB
+MB=MB
+GB=GB
+Checked=zweryfikowano plików
+Verifying=Weryfikacja
+VerifyStart=Weryfikacja rozpoczêta
+VerifyFile=Weryfikacja pliku:
+Compared=Porównano:
+Bytes=bajtów
+MBRequired=MB wymagane
+MBFree=MB wolne
+Estimate=Szacowany rozmiar na p³ycie:
+WritingFile=Nagrywany plik:
+Start=Rozpoczynanie, proszê czekaæ...
+
+[Messages]
+OneFile=Proszê dodaæ co najmniej jeden plik do listy.
+NoDisc=Brak p³yty w napêdzie.
+InsertEmpty=Proszê w³o¿yæ pust¹ p³ytê i klikn¹æ OK, aby kontynuowaæ.
+InsertDisc=Proszê w³o¿yæ p³ytê i klikn¹æ OK, aby kontynuowaæ.
+InsertCorrect=Proszê w³o¿yæ odpowiedni¹ p³ytê i klikn¹æ OK, aby kontynuowaæ.
+InsertAnother=Proszê w³o¿yæ inn¹ p³ytê i klikn¹æ OK, aby kontynuowaæ.
+NotWritable=P³yta nie jest zapisywalna.
+Required=P³yta wymagana dla kompilacji:
+Empty=pusta
+WrongKind=Twoja kompilacja nie mo¿e zostaæ nagrana na tym typie noœnika.
+NotEmpty=P³yta nie jest pusta.
+NotEnough=Na p³ycie jest zbyt ma³o miejsca.
+RWErase=W³o¿ona p³yta wielokrotnego zapisu nie jest pusta.
+WantErase=Czy chcesz j¹ wymazaæ, a nastêpnie nagraæ kompilacjê?
+Success=Proces zakoñczony sukcesem
+TestSuccess=Symulacja zakoñczona sukcesem
+BurnSuccess=Nagrywanie zakoñczone sukcesem
+NoEject=Nie mo¿na wysun¹æ p³yty.
+TestFailed=Symulacja nie powiod³a siê
+BurnFailed=Nagrywanie nie powiod³o siê
+BuildFailed=Tworzenie nie powiod³o siê
+Failed=Proces nie powiód³ siê
+ClosingTrack=Zamykanie œcie¿ki
+Prepare=Przygotowanie kompilacji
+NoErase=P³yta nie jest wielokrotnego zapisu.
+InDrive=P³yta w napêdzie
+WillFormat=zostanie sformatowana.
+FormatNote=Formatowanie p³yty usunie z niej wszystkie dane.
+OkFormat=Kliknij OK, aby sformatowaæ albo Anuluj, aby powróciæ.
+FormatSuccess=Formatowanie p³yty zakoñczone sukcesem.
+Minutes=min
+NoRecorder=Nie znaleziono nagrywarki.
+WillErase=zostanie wymazane.
+EraseNote=Wymazanie p³yty usunie z niej wszystkie dane.
+OkErase=Kliknij OK, aby wymazaæ albo Anuluj, aby powróciæ.
+EraseSuccess=Wymazanie p³yty zakoñczone sukcesem.
+Welcome=Nie mo¿na wyœwietliæ ekranu powitalnego.
+MBAvail=MB dostêpne
+MBRequired=MB wymagane
+Erasable=wielokrotnego zapisu
+Writable=zapisywalna
+Abort=operacja anulowana przez u¿ytkownika
+
+[Messages2]
+NoDiscSource=W napêdzie Ÿród³owym nie ma p³yty.
+NoAudioCopy=Nie mo¿na skopiowaæ Audio CD przy u¿yciu BurnAware.
+EmptySource=P³yta w napêdzie Ÿród³owym jest pusta.
+SpecifyImage=Proszê wybraæ obraz p³yty.
+Access=Plik jest u¿ywany przez inny program lub brak dostêpu.
+CopySuccess=Kopiowanie zakoñczone sukcesem
+BuildSuccess=Tworzenie zakoñczone sukcesem
+CopyCancel=Kopiowanie nie powiod³o siê (operacja anulowana przez u¿ytkownika)
+CopyFailed=Kopiowanie nie powiod³o siê
+NoDrive=Nie znaleziono napêdów.
+HDD=Dysk twardy
+InvalidChar=Nazwa folderu zawiera niepoprawne znaki.
+FolderExists=Folder z podan¹ nazw¹ ju¿ istnieje.
+UnableFolder=Nie mo¿na stworzyæ folderu.
+UnableRenameFolder=Nie mo¿na zmieniæ nazwy folderu.
+UnableRenameFile=Nie mo¿na zmieniæ nazwy pliku.
+InvalidChar1=Nazwa pliku zawiera niepoprawne znaki.
+FileExists=Plik z podan¹ nazw¹ ju¿ istnieje.
+BDErr=Twoja nagrywarka nie obs³uguje p³yt Blu-ray.
+VerifyFailed=Weryfikacja nie powiod³a siê
+VerifySuccess=Weryfikacja zakoñczona sukcesem
+UseUDF=Nie mo¿na dodaæ pliku (u¿yj trybu UDF)
+UnableProcess=Nie mo¿na przeanalizowaæ pliku
+SelectImage=Musisz wybraæ obraz p³yty przed kontynuowaniem.
+NoImage=Nie odnaleziono obrazu p³yty.
+OnlyISO=Mo¿na nagraæ obraz tylko z rozszerzeniem *.iso.
+BurnCancel=Nagrywanie nie powiod³o siê (operacja anulowana przez u¿ytkownika)
+EmptyRequired=P³yta wymagana do kompilacji: pusta
+NoDVDFiles=Folder nie zawiera prawid³owych plików DVD-Video (*.VOB; *.IFO; *.BUP).
+SpecifyImage=Proszê wybraæ nazwê obrazu p³yty.
+ImageUsed=Plik jest u¿ywany przez inny program lub brak dostêpu.
+
+[Captions2]
+LastSession=Wczytywanie ostatniej sesji, proszê czekaæ...
+LoadSession=Wczytywanie sesji
+Multisession=Multisesja
+SelectSession=Wybierz sesjê do wczytania:
+DiscName=Nazwa p³yty
+DiscName1=Nazwa p³yty:
+DefaultName=Domyœlna nazwa p³yty:
+DataColumn1=Nazwa
+DataColumn2=Rozmiar
+DataColumn3=Typ
+DataColumn4=Data modyfikacji
+DataCD=P³yta CD z danymi
+DataDVD=P³yta DVD z danymi
+BootCD=Startowa p³yta CD
+BootDVD=Startowa p³yta DVD
+DataBD=P³yta BD z danymi
+MultisessionCD=Multisesyjna p³yta CD
+MultisessionDVD=Multisesyjna p³yta DVD
+MultisessionBD=Multisesyjna p³yta BD
+DoNotLoad=Nie wczytuj sesji
+Load=Wczytaj sesjê
+VerifyProgress=Postêp weryfikacji:
+Image=Plik obrazu p³yty:
+DiscImage=Obraz p³yty
+DVDVideo=DVD-Video
+DVDFolder=Proszê wybraæ folder zawieraj¹cy pliki DVD-Video. Folder musi zawieraæ pliki VOB, IFO i BUP i plik czêsto nazywany VIDEO_TS.
+Erase=Wymazywanie
+SelectRec=Nagrywarka:
+SelectErase=Metoda wymazywania:
+Quick=Wyma¿ p³ytê wielokrotnego zapisu (szybkie wymazywanie)
+Complete=Formatuj p³ytê wielokrotnego zapisu (pe³ne wymazywanie)
+QuickTip=P³yta pojawi siê jako pusta, ale dane nie zostan¹ ca³kowicie wymazane. Nie u¿ywaj tej metody, jeœli p³yta zawiera poufne dane.
+CompleteTip=Wybranie tej opcji sprawi, ¿e dane na p³ycie zostan¹ ca³kowicie wymazane. Formatowanie zajmuje trochê czasu.
+
+[Captions3]
+CDImage=Obraz p³yty CD
+DVDImage=Obraz p³yty DVD
+BootCDImage=Obraz startowej p³yty CD
+BootDVDImage=Obraz startowej p³yty DVD
+BDImage=Obraz p³yty BD
+JukeCD=P³yta CD z MP3 lub WMA
+JukeDVD=P³yta DVD z MP3 lub WMA
+JukeBD=P³yta BD z MP3 lub WMA
+Eject=Wysuñ p³ytê
+Refresh=Odœwie¿
+Info=Informacje
+Type=Typ:
+Sessions=Sesje na p³ycie:
+Capacity=Pojemnoœæ:
+Free=Wolne miejsce:
+Used=Zajête miejsce:
+Status=Status:
+Letter=Litera napêdu:
+Vendor=Dostawca:
+Model=Model:
+Firmware=Wersja firmware:
+Cache=Wielkoœæ cache:
+ReadSpeed=Maks. prêdkoœæ odczytu:
+WriteSpeed=Maks. prêdkoœæ nagrywania:
+Write=Mo¿liwoœci:
+NoDisc=Brak p³yty
+Writable=Zapisywalna
+Empty=Pusta
+Incomplete=Niekompletna
+Complete=Kompletna
+Unknown=Nieznana
+
+[Captions4]
+Gathering=Odczytywanie informacji...
+NotReady=Niegotowe
+Done=Zrobione
+Opening=Otwieranie tacki...
+Opening1=Otwieranie tacki, proszê czekaæ...
+Checking=Weryfikacja p³yty...
+Preparing=Przygotowywanie nagrywarki...
+DriveNotReady=Napêd nie jest gotowy.
+Refreshing=Odœwie¿anie...
+Multiburn=Obs³uga wielu nagrywarek
+SpecifyImage=Proszê wybraæ obraz p³yty.
+ImageNotFound=Obraz p³yty nie zosta³ znaleziony.
+SelectRecorder=Wybierz co najmniej jedn¹ nagrywarkê.
+TestWriting=Testowe nagrywanie na p³ytê...
+ImageSize=Rozmiar obrazu p³yty:
+NoImage=Obraz p³yty nie zosta³ wybrany.
+Progress=Postêp:
+Cancelled=Operacja anulowana przez u¿ytkownika
+Multierase=Wymazywanie na wielu nagrywarkach
+Erase=Wyma¿ (Ctrl+Del)
+Formatting=Formatowanie p³yty...
+Erasing=Wymazywanie p³yty...
+AddTip1=Aby dodaæ pliki do tej listy, u¿yj przycisku "Dodaj pliki...".
+AddTip2=Mo¿esz równie¿ przeci¹gn¹æ pliki do tej listy z Windows Explorer.
