@@ -1,6 +1,6 @@
-; BurnAware Polish v18.4
+; BurnAware Polish v19.0
 ; Prepared by corteo@o2.pl
-; Translation updated by Mirosław Żylewicz - 12/09/2024
+; Translation updated by Mirosław Żylewicz - 20/01/2026
 
 [Language]
 Codepage=1250
@@ -43,6 +43,7 @@ TrialExpired=Twój bezpłatny okres próbny wygasł. Kup licencję, aby móc dal
 Close=Zamknij program
 TrialMessage=Ten program komputerowy możesz wypróbować bezpłatnie. Masz 10 dni na ocenę produktu przed dokonaniem zakupu.
 VideoDVD=DVD-Video
+NotFree=Ta opcja dostępna jest tylko w wersjach Professional oraz Premium.
 
 [v16.3]
 Length=Nieprawidłowa długość klucza.
@@ -105,7 +106,7 @@ NoConvert=Nie konwertuj plików
 
 [v14.8]
 Upgrade=Uaktualnij
-Benefits=Zaktualizuj edycję bezpłatną, aby uzyskać następujące korzyści:
+Benefits=Uaktualnij edycję bezpłatną, aby uzyskać następujące korzyści:
 64bit=64-bitowa wersja programu
 AllTools=Dostępne wszystkie narzędzia
 Command=Obsługa wiersza poleceń
@@ -119,7 +120,7 @@ Convert=Konwertuj pliki do standardowego formatu DVD-Video
 
 [v14.3]
 Free=Wersja bezpłatna nie może być używana w organizacji ani do celów komercyjnych.
-Upgrade=Zaktualizuj do wersji Professional 
+Upgrade=Uaktualnij do wersji Professional 
 Legal=Nie twórz nielegalnych kopii tego programu!
 
 [v14.1]
