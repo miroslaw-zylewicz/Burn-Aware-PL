@@ -1,9 +1,17 @@
-; BurnAware Polish v19.0
+; BurnAware Polish v19.1
 ; Prepared by corteo@o2.pl
-; Translation updated by Mirosław Żylewicz - 20/01/2026
+; Translation updated by Mirosław Żylewicz - 04/06/2026
 
 [Language]
 Codepage=1250
+
+[v19.0]
+ConsoleBurner=Nagraj z wiersza poleceń
+ConsoleBurnerHint=Twórz płytę z danymi korzystając z wiersza poleceń.
+UpdateNote=Jeśli klucz licencyjny został zakupiony ponad rok temu, aktywacja nowej wersji może nie być możliwa - konieczna będzie aktualizacja.
+EnterPath=Wprowadź ścieżkę do pliku lub katalogu:
+PathError=Ścieżka nie istnieje.
+CloseEnter=Naciśnij Enter, aby zamknąć program.
 
 [v18.4]
 NoLinks=Nie można dodać plików (długość ścieżki przekracza 260 znaków).
@@ -200,7 +208,7 @@ Sleep=Nie przechodź w tryb uśpienia podczas nagrywania
 NoSleep=Tryb blokady uśpienia aktywowany
 
 [v10.3]
-RunAsAdmin=Proszę uruchomić program jako administrator.
+RunAsAdmin=Uruchom program jako administrator.
 NoSpan=Program nie może podzielić pliku na wiele plików.
 BigSize=Rozmiar pliku przekracza pojemność płyty.
 
