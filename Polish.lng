@@ -1,9 +1,16 @@
-; BurnAware Polish v19.1
+; BurnAware Polish v19.2
 ; Prepared by corteo@o2.pl
-; Translation updated by Mirosław Żylewicz - 04/06/2026
+; Translation updated by Mirosław Żylewicz - 01/08/2026
 
 [Language]
 Codepage=1250
+
+[v19.1]
+LicError=Nie można pobrać informacji o licencji.
+WinARM=W systemach Windows z procesorem ARM konieczna jest modyfikacja ustawień emulacji.
+EmulSettings=Otwórz okno Właściwości następującego pliku:
+EmulSettings2=Zmień ustawienie emulacji na Bezpieczne lub Ścisłe:
+EmulSettings3=Zgodność > Zmień ustawienia emulacji > Bezpieczna emulacja
 
 [v19.0]
 ConsoleBurner=Nagraj z wiersza poleceń
@@ -214,7 +221,7 @@ BigSize=Rozmiar pliku przekracza pojemność płyty.
 
 [v10.1]
 Categories=Kategorie
-Classic=Klasyczne ikony
+Classic=Klasyczne
 Tag=Zapisz tagi utworu
 
 [v9.5]
