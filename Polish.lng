@@ -1,9 +1,14 @@
-; BurnAware Polish v19.2
+; BurnAware Polish v19.6
 ; Prepared by corteo@o2.pl
-; Translation updated by Mirosław Żylewicz - 01/08/2026
+; Translation updated by Mirosław Żylewicz - 26/11/2026
 
 [Language]
 Codepage=1250
+
+[v19.5]
+AddMenu=Dodaj menu do płyty DVD
+PrepareMenu=Przygotowywanie menu płyty DVD
+PrepareTOC=Przygotowywanie spisu treści płyty DVD
 
 [v19.1]
 LicError=Nie można pobrać informacji o licencji.
@@ -205,7 +210,7 @@ UnpackISO=Wypakuj ISO
 UnpackISOHint=Wypakuj pliki z obrazu ISO.
 Open=Otwórz
 Total=Całość:
-DestFolder=Proszę wybrać folder docelowy.
+DestFolder=Wybierz folder docelowy.
 MultiLabel=Użyj oryginalnej nazwy płyty dla nowych sesji
 HiRes=Konwertowanie ścieżek HD
 Converting=Konwertowanie
@@ -368,10 +373,10 @@ BootMsg=Wiadomość startowa:
 CacheMB=Rozmiar pamięci podręcznej (MB):
 
 [v5.2]
-InsertEmpty=Proszę włożyć pustą płytę, aby kontynuować.
-InsertDisc=Proszę włożyć zapisywalną płytę, aby kontynuować.
-InsertCorrect=Proszę włożyć płytę odpowiedniego typu, aby kontynuować.
-InsertAnother=Proszę włożyć inną płytę, aby kontynuować.
+InsertEmpty=Włóż pustą płytę, aby kontynuować.
+InsertDisc=Włóż zapisywalną płytę, aby kontynuować.
+InsertCorrect=Włóż płytę odpowiedniego typu, aby kontynuować.
+InsertAnother=Włóż inną płytę, aby kontynuować.
 Created=Utworzony:
 Modified=Zmodyfikowany:
 Accessed=Ost. używany:
@@ -408,7 +413,7 @@ Unknown=Nieznany system plików.
 Data=Włożona płyta zawiera dane, które mogą zostać zaktualizowane.
 Update=Czy chcesz zaktualizować istniejące dane na płycie?
 Session=System plików na płycie nie jest kompatybilny z aktualną kompilacją.
-Session2=Proszę użyć
+Session2=Użyj
 Session3=kompilacji, aby zaktualizować dane na płycie.
 ClickOK=Kliknij OK, aby wymazać płytę i kontynuować nagrywanie.
 EraseBefore=Wszystkie dane na płycie zostaną usunięte.
@@ -435,7 +440,7 @@ Bridge=Płyta Bridge Disc
 NotComp=nie jest kompatybilna z bieżącą kompilacją.
 SFS=System plików sesji:
 CFS=System plików kompilacji:
-Use=Proszę użyć
+Use=Użyj
 Comp=kompilacji, aby zaimportować tą sesję.
 Compiled=Skompilowano
 
@@ -444,7 +449,7 @@ Use=Użyj multisesji dla płyt DVD-RW/+RW
 License=Ten program jest darmowy do użytku niekomercyjnego.
 
 [v3.1.3]
-Restart=Proszę zrestartować aplikację.
+Restart=Uruchom ponownie aplikację.
 AllowDirs=Akceptuj ścieżki zawierające więcej niż 8 folderów
 AllowChars=Akceptuj ścieżki zawierające więcej niż 255 znaków
 Add=Dodaj rozszerzenie ";1" do wersji pliku ISO
@@ -571,8 +576,8 @@ DiscImage=Obraz płyty
 NoBin=Nie można dodać obrazu CUE. Brakuje pliku BIN.
 WrongTS=Nieprawidłowy folder DVD-Video.
 NoTS=Folder DVD-Video nie został znaleziony.
-SelectTS=Proszę wybrać prawidłowy folder VIDEO_TS.
-BrowseTS=Proszę wybrać folder zawierający pliki DVD-Video. Folder musi zawierać pliki VOB, IFO i BUP oraz musi nazywać się VIDEO_TS.
+SelectTS=Wybierz prawidłowy folder VIDEO_TS.
+BrowseTS=Wybierz folder zawierający pliki DVD-Video. Folder musi zawierać pliki VOB, IFO i BUP oraz musi nazywać się VIDEO_TS.
 NoDrive=Nie można wykryć nagrywarki.
 CDCue=Obraz CUE może być nagrany tylko na płycie CD.
 DataDisc=Płyta z danymi
@@ -605,7 +610,7 @@ WritingImage=Zapisywanie do obrazu
 Make=Twórz
 WriteProcess=Proces nagrywania zakończony sukcesem
 WriteFailed=Proces nagrywania zakończony niepowodzeniem
-NoBoot=Proszę wybrać plik obrazu startowego w Opcje > Ustawienia startowe.
+NoBoot=Wybierz plik obrazu startowego w Opcje > Ustawienia startowe.
 NoAudioToISO=Nie można skopiować Audio CD do obrazu ISO.
 CopyDisc=Kopiuj płytę na płytę.
 RegName=Nazwa:
@@ -630,7 +635,7 @@ UnablePlay=Nie można odtworzyć ścieżki.
 Pause=Pauza (w sekundach):
 
 [v2.3.3]
-Select=Proszę wybrać kategorię z lewej strony.
+Select=Wybierz kategorię z lewej strony.
 Options=Opcje
 Options2=Opcje (F10)
 Options3=Opcje...
@@ -801,8 +806,8 @@ Chm=Nie można odnaleźć pliku pomocy (.chm).
 NotFound=Nie można odnaleźć pliku programu.
 Reinstalled=Program musi zostać przeinstalowany, aby uzyskać dostęp do pomocy.
 Reinstalled1=Program musi zostać przeinstalowany, aby uzyskać dostęp do pliku.
-SpecifyName=Proszę podać nazwę użytą do rejestracji.
-SpecifyKey=Proszę podać klucz licencyjny.
+SpecifyName=Podaj nazwę użytą do rejestracji.
+SpecifyKey=Podaj klucz licencyjny.
 Thank=Dziękujemy za rejestrację.
 NotValid=Klucz licencyjny jest nieprawidłowy.
 
@@ -971,7 +976,7 @@ Remaining=Szacowany pozostały czas:
 AvSpeed=Średnia prędkość nagrywania:
 Writing=Nagrywanie na płytę
 Cancelling=Anulowanie
-Written=MB nagrano
+Written=MB zostało zapisanych
 BurnStart=Nagrywanie rozpoczęte
 TestStart=Symulacja rozpoczęta
 Of=z
@@ -1019,12 +1024,12 @@ WritingFile=Nagrywany plik:
 Start=Rozpoczynanie, proszę czekać...
 
 [Messages]
-OneFile=Proszę dodać co najmniej jeden plik do listy.
+OneFile=Dodaj co najmniej jeden plik do listy.
 NoDisc=Brak płyty w napędzie.
-InsertEmpty=Proszę włożyć pustą płytę i kliknąć OK, aby kontynuować.
-InsertDisc=Proszę włożyć płytę i kliknąć OK, aby kontynuować.
-InsertCorrect=Proszę włożyć odpowiednią płytę i kliknąć OK, aby kontynuować.
-InsertAnother=Proszę włożyć inną płytę i kliknąć OK, aby kontynuować.
+InsertEmpty=Włóż pustą płytę i kliknąć OK, aby kontynuować.
+InsertDisc=Włóż płytę i kliknąć OK, aby kontynuować.
+InsertCorrect=Włóż odpowiednią płytę i kliknąć OK, aby kontynuować.
+InsertAnother=Włóż inną płytę i kliknąć OK, aby kontynuować.
 NotWritable=Płyta nie jest zapisywalna.
 Required=Płyta wymagana dla kompilacji:
 Empty=pusta
@@ -1066,7 +1071,7 @@ Abort=operacja anulowana przez użytkownika
 NoDiscSource=W napędzie źródłowym nie ma płyty.
 NoAudioCopy=Nie można skopiować Audio CD przy użyciu BurnAware.
 EmptySource=Płyta w napędzie źródłowym jest pusta.
-SpecifyImage=Proszę wybrać obraz płyty.
+SpecifyImage=Wybierz obraz płyty.
 Access=Plik jest używany przez inny program lub brak dostępu.
 CopySuccess=Kopiowanie zakończone sukcesem
 BuildSuccess=Tworzenie zakończone sukcesem
@@ -1092,7 +1097,7 @@ OnlyISO=Można nagrać obraz tylko z rozszerzeniem *.iso.
 BurnCancel=Nagrywanie nie powiodło się (operacja anulowana przez użytkownika)
 EmptyRequired=Płyta wymagana do kompilacji: pusta
 NoDVDFiles=Folder nie zawiera prawidłowych plików DVD-Video (*.VOB; *.IFO; *.BUP).
-SpecifyImage=Proszę wybrać nazwę obrazu płyty.
+SpecifyImage=Wybierz nazwę obrazu płyty.
 ImageUsed=Plik jest używany przez inny program lub brak dostępu.
 
 [Captions2]
@@ -1121,7 +1126,7 @@ VerifyProgress=Postęp weryfikacji:
 Image=Plik obrazu płyty:
 DiscImage=Obraz płyty
 DVDVideo=DVD-Video
-DVDFolder=Proszę wybrać folder zawierający pliki DVD-Video. Folder musi zawierać pliki VOB, IFO i BUP i plik często nazywany VIDEO_TS.
+DVDFolder=Wybierz folder zawierający pliki DVD-Video. Folder musi zawierać pliki VOB, IFO i BUP i plik często nazywany VIDEO_TS.
 Erase=Wymazywanie
 SelectRec=Nagrywarka:
 SelectErase=Metoda wymazywania:
@@ -1174,7 +1179,7 @@ Preparing=Przygotowywanie nagrywarki...
 DriveNotReady=Napęd nie jest gotowy.
 Refreshing=Odświeżanie...
 Multiburn=Obsługa wielu nagrywarek
-SpecifyImage=Proszę wybrać obraz płyty.
+SpecifyImage=Wybierz obraz płyty.
 ImageNotFound=Obraz płyty nie został znaleziony.
 SelectRecorder=Wybierz co najmniej jedną nagrywarkę.
 TestWriting=Testowe nagrywanie na płytę...
