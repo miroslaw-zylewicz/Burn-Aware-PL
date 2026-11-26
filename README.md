@@ -1,4 +1,4 @@
-<b>Burn Aware 19.0 na oficjalnej stronie:</b>
+<b>Burn Aware 19.6 na oficjalnej stronie:</b>
 
 https://www.burnaware.com
 
